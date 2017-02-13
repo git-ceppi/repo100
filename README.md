@@ -1,2 +1,3 @@
 # repo100
-Repositorio prncipal del proyecto
+Repositorio principal del proyecto
+Esta linea es de ayuda para ver alguna modificación
